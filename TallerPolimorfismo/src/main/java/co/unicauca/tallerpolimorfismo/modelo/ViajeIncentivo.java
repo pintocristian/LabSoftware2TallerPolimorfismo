@@ -1,7 +1,10 @@
 package co.unicauca.tallerpolimorfismo.modelo;
 
 import java.util.Date;
-
+/**
+ *
+ * @author Cristian Pinto
+ */
 public class ViajeIncentivo extends Viaje{
     /*
     Cantidad de integrantes de la familia

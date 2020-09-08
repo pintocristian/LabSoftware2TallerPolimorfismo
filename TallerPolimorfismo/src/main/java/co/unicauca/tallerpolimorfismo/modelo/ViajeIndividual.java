@@ -1,7 +1,10 @@
 package co.unicauca.tallerpolimorfismo.modelo;
 
 import java.util.Date;
-
+/**
+ *
+ * @author Cristian Pinto
+ */
 public class ViajeIndividual extends Viaje{
     //Constructor
     public ViajeIndividual(String origen, String destino, int costo, Date fechaSalida, Date fechaLlegada){
